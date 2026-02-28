@@ -1,0 +1,15 @@
+
+TOKEN = "8133134761:AAFi7aTDD3vCM78LhVKUqaK05kT7Avcsnmo"
+ADMIN_ID = 6341903269
+
+
+
+
+
+
+oddiy button da amalga oshiramiz
+bot.set_my_name()
+bot.set_my_description()
+bot.set_my_short_description()
+bot.set_my_profile_photo()
+
